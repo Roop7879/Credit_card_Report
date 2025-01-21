@@ -29,3 +29,9 @@ This project aims to analyze credit card transactions and customer data to uncov
 - **Businessmen** and **Self-employed customers** have the highest revenue contribution.
 - Customers aged **30-50 years** are the most active users.
 - The highest revenue is generated from customers in **TX, NY, CA, FL, and NJ** states.
+
+
+### **Contact**
+For any questions or feedback, feel free to contact me:  
+📧 **Email**: [parihar1roop@gmail.com](mailto:parihar1roop@gmail.com)  
+📱 **Phone**: 8982502848
